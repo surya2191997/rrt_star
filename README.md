@@ -1,6 +1,7 @@
 ## rrt_star
 # Background
 This code implements RRT* algortihm, for the Autonomous Robots course project.
+
 Team Name: F1Racers
 
 Members:
