@@ -21,4 +21,15 @@ Note that the code takes some time to construct the graph if the number of itera
 
 # Results
 
+5000 iterations: 
+
 ![image](iter5000.png)
+
+
+10000 iterations:
+
+![image](iter10000.png)
+
+20000 iteartions:
+
+![image](iter20000.png)
