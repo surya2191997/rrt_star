@@ -21,6 +21,8 @@ Note that the code takes some time to construct the graph if the number of itera
 
 # Results
 
+The tree is shown in black, and path computed using A* is shown in red.
+
 5000 iterations: 
 
 ![image](iter5000.png)
