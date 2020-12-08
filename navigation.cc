@@ -383,7 +383,7 @@ void vis_path(vector<Vector2f> path){
 
 void Navigation::SetNavGoal(const Vector2f& loc, float angle) {
     //if(curr_pos_set){
-    rrt_iterations += 100;
+    // rrt_iterations += 100;
     nav_goal_loc_ = loc;
     //goal_loc_set = true;
     rrt_star();
