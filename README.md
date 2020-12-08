@@ -21,4 +21,4 @@ Note that the code takes some time to construct the graph if the number of itera
 
 # Results
 
-![image]{iter5000.png}
+![image](iter5000.png)
