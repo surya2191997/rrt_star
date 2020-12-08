@@ -35,3 +35,7 @@ The tree is shown in black, and path computed using A* is shown in red.
 20000 iteartions:
 
 ![image](iter20000.png)
+
+The graph for the path cost obtained using A* at various iterations of RRT*:
+
+![image](graph.png)
