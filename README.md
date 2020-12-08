@@ -36,6 +36,6 @@ The tree is shown in black, and path computed using A* is shown in red.
 
 ![image](iter20000.png)
 
-The graph for the path cost obtained using A* at various iterations of RRT*. Note the high variability at the lower iterations as the graph is not accurate, as the number of iterations increase, cost becomes less variable.
+The graph for the path cost obtained using A* at various iterations of RRT*. Note the high variability at the lower iterations as the graph is not optimal, as the number of iterations increase, cost becomes less variable.
 
 ![image](graph.png)
